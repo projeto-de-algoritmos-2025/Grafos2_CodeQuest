@@ -34,13 +34,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1028. Recover a Tree From Preorder Traversal</a></td>
-      <td><a href="./1028.cpp">1028.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1368. Minimum Cost to Make at Least One Valid Path in a Grid</a></td>
+      <td><a href="./1028.cpp">1368.cpp</a></td>
       <td><a href="https://link-do-video.com/1028">Link</a></td>
     </tr>
     <tr>
-      <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">2290. Minimum Obstacle Removal to Reach Corner</a></td>
-      <td><a href="./2290.cpp">2290.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">882. Reachable Nodes In Subdivided Graph</a></td>
+      <td><a href="./2290.cpp">882.cpp</a></td>
       <td><a href="https://link-do-video.com/2290">Link</a></td>
     </tr>
   </tbody>
@@ -74,8 +74,9 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">000. Nome da Questão</a></td>
-      <td><a href="./000.cpp">000.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">743. Network Delay Time
+</a></td>
+      <td><a href="./000.cpp">743.cpp</a></td>
       <td><a href="https://link-do-video.com/102">Link</a></td>
     </tr>
   </tbody>
