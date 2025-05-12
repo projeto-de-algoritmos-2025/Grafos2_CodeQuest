@@ -106,8 +106,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">834. Sum of Distances in Tree</a></td>
-      <td><a href="./834.py">834.py</a></td>
+      <td><a href="https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/">1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree</a></td>
+      <td><a href="./1489.py">1489.py</a></td>
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
     <tr>
@@ -121,10 +121,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 4 - Resolução do exercício 834</strong></p>
+  <p><strong>Imagem 4 - Resolução do exercício 1489</strong></p>
 </div>
 
-![834](Screenshots/834.png)
+![834](Screenshots/1489.png)
 
 <div align="center">
   <p><strong>Imagem 5 - Resolução do exercício 847</strong></p>
