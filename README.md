@@ -111,8 +111,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
     <tr>
-      <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">847. Shortest Path Visiting All Nodes</a></td>
-      <td><a href="./847.py">847.py</a></td>
+      <td><a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">1579. Remove Max Number of Edges to Keep Graph Fully Traversable</a></td>
+      <td><a href="./1579.py">1579.py</a></td>
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
   </tbody>
@@ -127,10 +127,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 ![834](Screenshots/1489.png)
 
 <div align="center">
-  <p><strong>Imagem 5 - Resolução do exercício 847</strong></p>
+  <p><strong>Imagem 5 - Resolução do exercício 1579</strong></p>
 </div>
 
-![847](Screenshots/847.png)
+![847](Screenshots/1579.png)
 
 #### 🟡 Questão Média
 
