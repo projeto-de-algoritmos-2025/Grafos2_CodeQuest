@@ -35,12 +35,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <tbody>
     <tr>
       <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1368. Minimum Cost to Make at Least One Valid Path in a Grid</a></td>
-      <td><a href="./1028.cpp">1368.cpp</a></td>
+      <td><a href="./1368.cpp">1368.cpp</a></td>
       <td><a href="https://link-do-video.com/1028">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">882. Reachable Nodes In Subdivided Graph</a></td>
-      <td><a href="./2290.cpp">882.cpp</a></td>
+      <td><a href="./882.cpp">882.cpp</a></td>
       <td><a href="https://link-do-video.com/2290">Link</a></td>
     </tr>
   </tbody>
@@ -49,16 +49,16 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 1 - Resolução do exercício 1028</strong></p>
+  <p><strong>Imagem 1 - Resolução do exercício 1368</strong></p>
 </div>
 
-![1028](Screenshots/1028.png)
+![1028](Screenshots/1368.png)
 
 <div align="center">
-  <p><strong>Imagem 2 - Resolução do exercício 2290</strong></p>
+  <p><strong>Imagem 2 - Resolução do exercício 882</strong></p>
 </div>
 
-![2290](Screenshots/2290.png)
+![2290](Screenshots/882.png)
 
 #### 🟡 Questão Média
 
@@ -76,7 +76,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">743. Network Delay Time
 </a></td>
-      <td><a href="./000.cpp">743.cpp</a></td>
+      <td><a href="./743.cpp">743.cpp</a></td>
       <td><a href="https://link-do-video.com/102">Link</a></td>
     </tr>
   </tbody>
@@ -85,10 +85,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício 102</strong></p>
+  <p><strong>Imagem 3 - Resolução do exercício 743<strong></p>
 </div>
 
-![102](Screenshots/000.png)
+![102](Screenshots/743.png)
 ---
 
 ### 👤 [Gustavo Alves de Souza](https://github.com/gustaallves)
