@@ -146,8 +146,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102. Binary Tree Level Order Traversal</a></td>
-      <td><a href="./102.py">102.py</a></td>
+      <td><a href="https://leetcode.com/problems/count-the-number-of-complete-components/description/">2685. Count the Number of Complete Components</a></td>
+      <td><a href="./2685.py">2685.py</a></td>
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
   </tbody>
@@ -156,10 +156,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 6 - Resolução do exercício 102</strong></p>
+  <p><strong>Imagem 6 - Resolução do exercício 2685</strong></p>
 </div>
 
-![102](Screenshots/102.png)
+![102](Screenshots/2685.png)
 
 ---
 
