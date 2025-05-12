@@ -1,7 +1,7 @@
 # Grafos2_CodeQuest
 
-**Número da Lista**: 1  
-**Conteúdo da Disciplina**: Grafos 1
+**Número da Lista**: 2  
+**Conteúdo da Disciplina**: Grafos 2
 
 ## Alunos
 
@@ -13,7 +13,7 @@
 ## Sobre
 
 <p align="justify">
-Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos e reúne a resolução de diversos exercícios do <a href="https://leetcode.com/problemset/">Leetcode</a> envolvendo estruturas de dados e técnicas de algoritmos, como grafos, árvores, BFS e DFS. As questões foram divididas entre os integrantes do grupo, de forma que cada um resolveu 2 questões difíceis e 1 de nível médio.
+Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos e reúne a resolução de diversos exercícios do <a href="https://leetcode.com/problemset/">Leetcode</a> envolvendo estruturas de dados e técnicas de algoritmos, como grafos direcionados com pesos nas arestas, Menor Caminho, algoritmo de Dijkstra, Grafos não direcionados com pesos nas arestas, Árvore Geradora Mínima, algoritmo de Prim, Estrutura de dados Union-Find e algoritmo de Kruskal. As questões foram divididas entre os integrantes do grupo, de forma que cada um resolveu 2 questões difíceis e 1 de nível médio.
 </p>
 
 ## Screenshots
