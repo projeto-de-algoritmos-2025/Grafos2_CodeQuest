@@ -109,7 +109,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/">1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree</a></td>
       <td><a href="./1489.py">1489.py</a></td>
-      <td><a href="https://youtu.be/OWTrbWlo7Gw">Link</a></td>
+      <td><a href="https://youtu.be/Zo3cID--f5A">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">1579. Remove Max Number of Edges to Keep Graph Fully Traversable</a></td>
