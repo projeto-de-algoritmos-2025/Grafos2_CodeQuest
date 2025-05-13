@@ -149,7 +149,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/count-the-number-of-complete-components/description/">2685. Count the Number of Complete Components</a></td>
       <td><a href="./2685.py">2685.py</a></td>
-      <td><a href="https://youtu.be/OWTrbWlo7Gw">Link</a></td>
+      <td><a href="https://youtu.be/gYx43vNSVjs">Link</a></td>
     </tr>
   </tbody>
 </table>
