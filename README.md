@@ -36,12 +36,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1368. Minimum Cost to Make at Least One Valid Path in a Grid</a></td>
       <td><a href="./1368.cpp">1368.cpp</a></td>
-      <td><a href="https://link-do-video.com/1028">Link</a></td>
+      <td><a href="https://youtu.be/1UBY27XQTZQ">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">882. Reachable Nodes In Subdivided Graph</a></td>
       <td><a href="./882.cpp">882.cpp</a></td>
-      <td><a href="https://link-do-video.com/2290">Link</a></td>
+      <td><a href="https://youtu.be/FneCoZWDc2M">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -77,7 +77,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
       <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">743. Network Delay Time
 </a></td>
       <td><a href="./743.cpp">743.cpp</a></td>
-      <td><a href="https://link-do-video.com/102">Link</a></td>
+      <td><a href="https://youtu.be/TIDB92A5vXw">Link</a></td>
     </tr>
   </tbody>
 </table>
