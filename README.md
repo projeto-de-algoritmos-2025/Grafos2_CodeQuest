@@ -114,7 +114,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">1579. Remove Max Number of Edges to Keep Graph Fully Traversable</a></td>
       <td><a href="./1579.py">1579.py</a></td>
-      <td><a href="https://youtu.be/OWTrbWlo7Gw">Link</a></td>
+      <td><a href="https://youtu.be/wkD_H-RLiac">Link</a></td>
     </tr>
   </tbody>
 </table>
